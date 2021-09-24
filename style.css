@@ -137,7 +137,7 @@
       width: 80%;
       height: 100%;
       padding: 2rem;
-      background-color: #000000;
+      background-color: #fff;
       transition: .5s;
     }
   }
@@ -146,7 +146,7 @@
   }
   .nav__link{
     position: relative;
-    color: #fff;
+    color: #000;
   }
   .nav__link:hover{
     position: relative;
