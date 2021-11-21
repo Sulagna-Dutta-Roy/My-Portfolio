@@ -9,7 +9,7 @@
 </ul>
 
 <h1>
-  View live: https://sulagna-dutta-roy.github.io/My-Portfolio/
+  View live: https://sulagna-dutta-roy.github.io/My-Portfolio
 
 </h1>
 
